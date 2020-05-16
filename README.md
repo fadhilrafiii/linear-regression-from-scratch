@@ -42,6 +42,10 @@ Seperti yang telah kalian pelajari pada mata kuliah Probabilitas dan Statistika,
 ## Bonus
 - Tambahkan Try-Catch yang mudah dimengerti untuk error-error yang mungkin terjadi.
 
+## Panduan
+Julia Documentation: https://docs.julialang.org/ <br>
+Julia Cheatsheet: https://cheatsheets.quantecon.org/julia-cheatsheet.html
+
 ## Points Granted
 Max Point: 3000<br>
 Bonus: + 1000
