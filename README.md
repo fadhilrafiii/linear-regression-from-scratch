@@ -41,6 +41,11 @@ Seperti yang telah kalian pelajari pada mata kuliah Probabilitas dan Statistika,
     
 ## Bonus
 - Tambahkan Try-Catch yang mudah dimengerti untuk error-error yang mungkin terjadi.
-<br><br>
+
+## Point Granted
+Max Point: 3000
+Bonus: + 1000
+
+<br>
 ==================================================================<br>
 <i>*Segala pertanyaan dapat ditanyakan melalui LINE Group Ca-IRK 2018 atau dapat melalui pc langsung.</i>
