@@ -42,8 +42,8 @@ Seperti yang telah kalian pelajari pada mata kuliah Probabilitas dan Statistika,
 ## Bonus
 - Tambahkan Try-Catch yang mudah dimengerti untuk error-error yang mungkin terjadi.
 
-## Point Granted
-Max Point: 3000
+## Points Granted
+Max Point: 3000<br>
 Bonus: + 1000
 
 <br>
