@@ -9,14 +9,14 @@ Seperti yang telah kalian pelajari pada mata kuliah Probabilitas dan Statistika,
 ## Spesifikasi Tugas
 1. Buatlah algoritma Linear Regression FROM SCRATCH
 2. Program ditulis dalam bahasa [Julia](https://julialang.org/)
-3. Program melakukan hal-hal dibawah ini:<br>
-    3.1. Mengambil data CSV (link ada di bawah)<br>
-    3.2. Memproses data mentah<br>
-    3.3. Melakukan <i>splitting</i> dataset (yang telah diproses) untuk <i>Train</i> dan <i>Test</i>.
-    3.4. Memasukkan data Train ke algoritma Linear Regression yang sudah kalian buat.<br>
-    3.5. Melakukan prediksi terhadap data Test.<br>
-    3.6. Menunjukkan akurasi dari algoritma yang telah dibuat terhadap dataset yang diberikan.<br>
-    3.7. Memvisualisasikan hasil prediksi dengan scatter plot (untuk datanya) + line plot (untuk modelnya).<br>
+3. Program melakukan hal-hal dibawah ini:
+    1. Mengambil data CSV (link ada di bawah)
+    2. Memproses data mentah
+    3. Melakukan <i>splitting</i> dataset (yang telah diproses) untuk <i>Train</i> dan <i>Test</i>.
+    4. Memasukkan data Train ke algoritma Linear Regression yang sudah kalian buat.
+    5. Melakukan prediksi terhadap data Test.
+    6. Menunjukkan akurasi dari algoritma yang telah dibuat terhadap dataset yang diberikan.
+    7. Memvisualisasikan hasil prediksi dengan scatter plot (untuk datanya) + line plot (untuk modelnya).
 
 ## Pengumpulan
 1. Fork repository ini.
