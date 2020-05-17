@@ -47,8 +47,8 @@ Julia Documentation: https://docs.julialang.org/ <br>
 Julia Cheatsheet: https://cheatsheets.quantecon.org/julia-cheatsheet.html
 
 ## Points Granted
-Max Point: 3000<br>
-Bonus: + 1000
+Max Point: 2000<br>
+Bonus: + 500
 
 <br>
 ==================================================================<br>
