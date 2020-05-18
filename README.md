@@ -8,7 +8,7 @@ Seperti yang telah kalian pelajari pada mata kuliah Probabilitas dan Statistika,
 
 ## Spesifikasi Tugas
 1. Buatlah algoritma Linear Regression FROM SCRATCH
-2. Program ditulis dalam bahasa [Julia](https://julialang.org/)
+2. Program ditulis dalam bahasa Python
 3. Program melakukan hal-hal dibawah ini:
     1. Mengambil data CSV (link ada di bawah)
     2. Memproses data mentah
@@ -32,7 +32,7 @@ Seperti yang telah kalian pelajari pada mata kuliah Probabilitas dan Statistika,
     - Demo dilakukan di Google Meet.
 
 ## Batasan-batasan
-1. Boleh menggunakan Library <b>apapun</b> asalkan bukan implementasi Linear Regression yang sudah ada.
+1. Boleh menggunakan Library <b>apapun</b> asalkan bukan implementasi Linear Regression yang sudah ada (cth: Scikit-Learn).
 2. Algoritma Linear Regression dapat digunakan untuk jumlah atribut berapapun (kecuali 0).
 3. Algoritma Linear Regression hanya dapat menerima atribut-atribut numerik (`float` / `int`).
     - Apabila terdapat atribut non-numerik, diharapkan untuk diproses terlebih dahulu.
@@ -40,15 +40,16 @@ Seperti yang telah kalian pelajari pada mata kuliah Probabilitas dan Statistika,
     - <b>AKAN TETAPI</b> diperbolehkan menggunakan dataset lain.
     
 ## Bonus
-- Tambahkan Try-Catch yang mudah dimengerti untuk error-error yang mungkin terjadi.
+- Gunakan bahasa [Julia](https://julialang.org/)
 
 ## Panduan
-Julia Documentation: https://docs.julialang.org/ <br>
-Julia Cheatsheet: https://cheatsheets.quantecon.org/julia-cheatsheet.html
+Untuk mengerjakan bonus:<br>
+- Julia Documentation: https://docs.julialang.org/
+- Julia Cheatsheet: https://cheatsheets.quantecon.org/julia-cheatsheet.html
 
 ## Points Granted
-Max Point: 2000<br>
-Bonus: + 500
+Max Point: 1500<br>
+Bonus: + 1000
 
 <br>
 ==================================================================<br>
