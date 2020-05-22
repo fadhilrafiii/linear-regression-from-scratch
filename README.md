@@ -8,7 +8,7 @@ Seperti yang telah kalian pelajari pada mata kuliah Probabilitas dan Statistika,
 
 ## Spesifikasi Tugas
 1. Buatlah algoritma Linear Regression FROM SCRATCH
-2. Program ditulis dalam bahasa Python
+2. Program ditulis dalam bahasa <b>Python</b>
 3. Program melakukan hal-hal dibawah ini:
     1. Mengambil data CSV (link ada di bawah)
     2. Memproses data mentah
@@ -48,8 +48,8 @@ Untuk mengerjakan bonus:<br>
 - Julia Cheatsheet: https://cheatsheets.quantecon.org/julia-cheatsheet.html
 
 ## Points Granted
-Max Point: 1500<br>
-Bonus: + 1000
+Max Point: 1750<br>
+Bonus: + 750
 
 <br>
 ==================================================================<br>
