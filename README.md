@@ -50,7 +50,7 @@ Untuk mengerjakan bonus:<br>
 - Julia Cheatsheet: https://cheatsheets.quantecon.org/julia-cheatsheet.html
 
 ## Points Granted
-Max Point: 1750<br>
+Max Point: 2000<br>
 Bonus: + 750
 
 <br>
