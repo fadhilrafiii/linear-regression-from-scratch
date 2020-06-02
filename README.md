@@ -9,9 +9,9 @@ Seperti yang telah kalian pelajari pada mata kuliah Probabilitas dan Statistika,
 ## Spesifikasi Tugas
 1. Buatlah algoritma Linear Regression FROM SCRATCH
 2. Program ditulis dalam bahasa <b>Python</b> dengan menggunakan kakas [Jupyter Notebook](https://jupyter.org/)
-    1. Class Linear Regression ditulis pada file Python (Jangan lupa untuk didokumentasikan dengan baik).
-    2. Class Linear Regression yang dibuat tadi lalu di-<i>import</i> dan digunakan pada Notebook.
-3. Program melakukan hal-hal dibawah ini:
+    1. Class Linear Regression ditulis pada file Python (.py) (Jangan lupa untuk didokumentasikan dengan baik).
+    2. Class Linear Regression yang dibuat tadi lalu di-<i>import</i> dan digunakan pada <i>Notebook</i> (.ipynb).
+3. Program pada <i>Notebook</i> melakukan hal-hal dibawah ini:
     1. Mengambil data CSV (link ada di bawah)
     2. Memproses data mentah
     3. Melakukan <i>splitting</i> dataset (yang telah diproses) untuk <i>Train</i> dan <i>Test</i>.
@@ -42,7 +42,7 @@ Seperti yang telah kalian pelajari pada mata kuliah Probabilitas dan Statistika,
     - <b>AKAN TETAPI</b> diperbolehkan menggunakan dataset lain.
     
 ## Bonus
-- Gunakan bahasa [Julia](https://julialang.org/) (Julia juga dapat digunakan pada Jupyter Notebook)
+- Gunakan bahasa [Julia](https://julialang.org/) (.jl) (Julia juga dapat digunakan pada Jupyter Notebook)
 
 ## Panduan
 Untuk mengerjakan bonus:<br>
